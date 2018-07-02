@@ -198,14 +198,14 @@
 	font-family: PingFangSC-Light;
 	color: rgba(255,255,255,1);
 	position: relative;
-	top: -1px;
+	top: 0;
 	left: 10px;
 }
 
 .main .container-right .proving1-input img {
 	vertical-align: middle;
 	position: relative;
-	top: -1px;
+	top: 0;
 	left: 10px;
 }
 
